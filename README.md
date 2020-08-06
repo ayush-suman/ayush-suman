@@ -7,7 +7,7 @@
 
 <br/>
 
-## I'm a Student Developer at BITS Pilani!
+### I'm a Student Developer at BITS Pilani!
 - 👨🏻‍💻  Android App Developer at [DVM - BITS Pilani][]
 - 🪀  Flutter Developer at [SU Tech Team - BITS Pilani][sutt]
 - 🕸  Software Engineer and Member of [ACM - BITS Pilani Student Chapter][acm]
