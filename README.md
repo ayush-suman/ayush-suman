@@ -1,5 +1,5 @@
 ```Hello World```
-# I'm [Ayush Suman][linkedin] 👋
+# I'm [Ayush Suman][linkedin] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 
 ## I'm a Student Developer at BITS Pilani!
 - 👨🏻‍💻  Android App Developer at [DVM - BITS Pilani][]
