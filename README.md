@@ -1,4 +1,5 @@
-### '''Hello World''', I'm [Ayush Suman][linkedin] 👋
+'''Hello World'''
+### I'm [Ayush Suman][linkedin] 👋
 
 ## I'm a Student Developer at BITS Pilani!
 - 👨🏻‍💻  Android App Developer at [DVM - BITS Pilani][]
