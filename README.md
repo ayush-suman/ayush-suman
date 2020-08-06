@@ -1,6 +1,10 @@
 ```Hello World```
 # I'm [Ayush Suman][linkedin] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ## I'm a Student Developer at BITS Pilani!
 - 👨🏻‍💻  Android App Developer at [DVM - BITS Pilani][]
 - 🪀  Flutter Developer at [SU Tech Team - BITS Pilani][sutt]
@@ -8,14 +12,6 @@
 - 🌠  Hardware Developer and Embedded Systems Programmer at [Team Anant][anant]
 - 💘  Founder of photo blogging platform [Humans of Patna][hop]
 - ⚡  Vibing on Piano 🎶
-
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
