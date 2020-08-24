@@ -24,11 +24,11 @@
 
 ### 📕 Latest From Humans of Patna
 <!-- BLOG-POST-LIST:START -->
+- ["IITians from my school conducted a workshop to show how good a life an IITian lives. That wasmy 10th std. Those guys we...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65355e25988998fbc10e01be86c303afe00ba7489)
 - [“To be honest, I didn’t plan this initially. I wanted to travel the world. Before coming to that- I started as a failure...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65355e25988998fb215e018e4663939f40cbf7289)
 - [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65449e245d487ddaa10e61ee46b323cf008ba708a5090eb73296094996e9ad377f9ff37a8adfb4285)
 - [Born in 1896, Muzaffarpur, Yogendra Shukla was considered the most prominent leader of Indian revolutionaries in Bihar b...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65449e245d487ddaa10e61fe867353ff20dbd738b5e91e0732960949e6693d474f9fe31a7acf44385)
 - [Humans of Patna updated their profile picture.](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65449e245d487ddaa10e61ee46d333bfe0eb1738b5398e1732960949c669ad771fcf130a5a8f44385)
-- [“I was 6 when I became aware of Child Rights, and about how so many kids were unaware of their own rights. It's heartbre...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65355e25988998eb012e119ea6b383bf50dbe7084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
