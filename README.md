@@ -24,11 +24,11 @@
 
 ### 📕 Latest From Humans of Patna
 <!-- BLOG-POST-LIST:START -->
-- [The Tinsukia Mail was unexpectedly extremely late that evening, sometime in the year 1986, those slow but serene era of...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65355e259889988b016e412eb6a363aff00b97f85)
-- ["IITians from my school conducted a workshop to show how good a life an IITian lives. That wasmy 10th std. Those guys we...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65355e25988998fbc10e01be86c303afe00ba7489)
-- [“To be honest, I didn’t plan this initially. I wanted to travel the world. Before coming to that- I started as a failure...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65355e25988998fb215e018e4663939f40cbf7289)
-- [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65355e25988998fb114ef1bef6c393af70bb1748d)
-- [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/862477a672d6712ebf10d2bcc95a65caef1ab54004ff0f650a05d0f64007cb8943b39b1083643eb6dd2cbdc7920558a65449e245d487ddaa10e61ee46b323cf008ba708a5090eb73296094996e9ad377f9ff37a8adfb4285)
+- [The Tinsukia Mail was unexpectedly extremely late that evening, sometime in the year 1986, those slow but serene era of...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd137f108c39cd6584c548359ab76dea)
+- ["IITians from my school conducted a workshop to show how good a life an IITian lives. That wasmy 10th std. Those guys we...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd13781c8a3dc46682c348349ab466e6)
+- [“To be honest, I didn’t plan this initially. I wanted to travel the world. Before coming to that- I started as a failure...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd1378128f3dc76a88ca4b3e96b160e6)
+- [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd1378118e32c46182ca483d91bf66e2)
+- [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d3388a2cbe810d2a0a8a3bc16a85c14e3a92b462e5a2b378adb9dd78f075b97e5ad66c1851055ba8bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
