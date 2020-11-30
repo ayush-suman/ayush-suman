@@ -24,12 +24,12 @@
 
 ### My Projects
 #### If you are interested into my efforts towards learning 
-- [chat-lo][chat-lo] Baby level project on Socket Programming. A local chat console application that sends msgs on UDP protocol. Uses mutli-threading to simultaneously listen to incoming messages while taking inputs from user for sending messages.
-- [libman][libman] A simple C application as inventory management system. Not developed to scale for real world use, but to learn and practice pointers, file handling and memory managment in C. In this project, I tried to incorporate a basic event handling system using functions running in infinite for loop. 
-- [acclr-mock-device-driver][mockdriver] A mock device driver that generates and sends random accelerometer data from kernel space to user space through buffers. Another repository on my Github uses IOCTL to communicate with userspace.
-- [Flutter-Network-Client_Boilerplate][netclient] Boilerplate code for simplifying http (authenticated) network call functions. Check Flutter-Network-Client-Boilerplate-2 for better solution with support of json parsing and model classes as response return (Under Development). 
-- [Flutt-Chat][fluttchat] A simple Flutter app with Beautiful Login UI, built on Firebase.
-- [RedditAndroid][reddit] An Android App that uses Reddit APIs to load data. Uses MVVM architecture with RxJava, Dagger2 (Dependency Injection), Room and Retrofit. Goal was to learn basic Unit Testing in software development.
+- [chat-lo][chat-lo] Baby level project on **Socket Programming**. A local chat console application that sends msgs on **UDP protocol**. Uses **mutli-threading** to simultaneously listen to incoming messages while taking inputs from user for sending messages.
+- [libman][libman] A simple **C application** as inventory management system. Not developed to scale for real world use, but to learn and practice **pointers**, **file handling** and **memory management** in C. In this project, I tried to incorporate a basic event handling system using **functions running in infinite for loop**. 
+- [acclr-mock-device-driver][mockdriver] A mock **device driver** that generates and sends random accelerometer data from **kernel space** to **user space** through buffers. **Another repository on my Github uses IOCTL to communicate with userspace**.
+- [Flutter-Network-Client_Boilerplate][netclient] Boilerplate code for simplifying **http (authenticated) network call functions**. Check **Flutter-Network-Client-Boilerplate-2** for better solution with support of json parsing and model classes as response return (Under Development). 
+- [Flutt-Chat][fluttchat] A simple **Flutter app** with **Beautiful Login UI**, built on **Firebase**.
+- [RedditAndroid][reddit] An **Android App** that uses Reddit APIs to load data. Uses **MVVM architecture** with **RxJava**, **Dagger2** (Dependency Injection), **Room** and **Retrofit**. Goal was to learn basic **Unit Testing** in software development.
 
 
 ---
