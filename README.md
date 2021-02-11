@@ -41,7 +41,7 @@
 - ["IITians from my school conducted a workshop to show how good a life an IITian lives. That wasmy 10th std. Those guys we...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd13781c8a3dc46682c348349ab466e6)
 - [“To be honest, I didn’t plan this initially. I wanted to travel the world. Before coming to that- I started as a failure...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd1378128f3dc76a88ca4b3e96b160e6)
 - [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd1378118e32c46182ca483d91bf66e2)
-- [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d3388a2cbe810d2a0a8a3bc16a85c14e3a92b462e5a2b378adb9dd78f075b97e5ad66c1851055ba8bc)
+- [Born in 1896, Muzaffarpur, Yogendra Shukla was considered the most prominent leader of Indian revolutionaries in Bihar b...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd137811893acc6089ca483993b764e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
