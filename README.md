@@ -14,7 +14,7 @@
 - 💻  Android App Developer at DVM - BITS Pilani
 - 🪀  Flutter Developer at [SU Tech Team - BITS Pilani][sutt]
 - 🕸  Software Engineer and Member of [ACM - BITS Pilani Student Chapter][acm]
-- 🌠  Hardware Developer and Embedded Systems Programmer at [Team Anant][anant]
+- 🌠  Embedded Systems Engineer at [Team Anant][anant]
 - 💘  Started a small photo blogging platform [Humans of Patna][hop]
 - ⚡  Vibing on Piano 🎶
 
