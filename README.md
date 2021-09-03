@@ -25,16 +25,15 @@
 ### A few interesting lines of codes
 
 #### My Flutter packages
-- [unwired][unwired]
-- [otp widget][otp]
+- [unwired][unwired] Library for simplifying **http (authenticated/unauthenticated) network call functions**. This makes http call and does response parsing on a **dedicated isolate**, lifting heavy work from main thread.
+- [otp widget][otp] Flutter Widget for entering OTP.
 
 #### Random projects
 - [chat-lo][chat-lo] Baby level project on **Socket Programming**. A local chat console application that sends msgs on **UDP protocol**. Uses **mutli-threading** to simultaneously listen to incoming messages while taking inputs from user for sending messages.
 - [libman][libman] A simple **C application** as inventory management system. Not developed to scale for real world use, but to learn and practice **pointers**, **file handling** and **memory management** in C. In this project, I tried to incorporate a basic event handling system using **functions running in infinite for loop**. 
-- [acclr-mock-device-driver][mockdriver] A mock **device driver** that generates and sends random accelerometer data from **kernel space** to **user space** through buffers. **Another repository on my Github uses IOCTL to communicate with userspace**.
-- [Flutter-Network-Client_Boilerplate 2][netclient] Boilerplate code for simplifying **http (authenticated) network call functions**. This makes http call and does response parsing on a **dedicated isolate**, lifting heavy work from main isolate.   
+- [acclr-mock-device-driver][mockdriver] A mock **device driver** that generates and sends random accelerometer data from **kernel space** to **user space** through buffers.
 - [Flutt-Chat][fluttchat] A simple **Flutter app** with **Beautiful Login UI**, built on **Firebase**.
-- [RedditAndroid][reddit] An **Android App** that uses Reddit APIs to load data. Uses **MVVM architecture** with **RxJava**, **Dagger2** (Dependency Injection), **Room** and **Retrofit**. Goal was to learn basic **Unit Testing** in software development.
+- [RedditAndroid][reddit] An **Android App** that uses Reddit APIs to load data. Uses **MVVM architecture** with **RxJava**, **Dagger2** (Dependency Injection), **Room** and **Retrofit**.
 
 ---
 
