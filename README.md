@@ -1,7 +1,7 @@
 ```Hello World```
 ### I'm [Ayush Suman][linkedin] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2626C0&lines=I+love+building+things%2C;and+breaking+them+down;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2656C0&lines=I+love+building+things%2C;and+breaking+them+down;)
 
 <br/>
 
