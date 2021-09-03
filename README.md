@@ -3,7 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2666C0&lines=I+love+to+build%2C;and+break;)
 
-<br/>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
