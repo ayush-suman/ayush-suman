@@ -13,11 +13,11 @@
 
 ### Currently making it through BITS Pilani
 - 😎  Former **Google** Developer Student Club Lead at BITS Pilani 
-- 💻  Android App Developer at DVM - BITS Pilani
-- 🪀  Flutter Developer at [SU Tech Team - BITS Pilani][sutt]
-- 🕸  Software Engineer and Member of [ACM - BITS Pilani Student Chapter][acm]
-- 🌠  Embedded Systems Engineer at [Team Anant][anant]
-- 💘  Started a small photo blogging platform [Humans of Patna][hop]
+- 🍩  Building Donut
+- 💻  Coordinator at [DVM - BITS Pilani][dvm]
+- 🪀  Developer at [SU Tech Team - BITS Pilani][sutt]
+- 🕸  Former Member of [ACM - BITS Pilani Student Chapter][acm]
+- 🌠  Former Embedded Systems Engineer at [Team Anant][anant]
 - ⚡  Vibing on Piano 🎶
 
 <br/>
@@ -50,6 +50,7 @@
 [sutt]: https://bits-sutechteam.org/
 [anant]: https://team-anant.org/
 [acm]: http://bitsacm.acm.org/index.html
+[dvm]: https://bits-dvm.org/
 
 [chat-lo]: https://github.com/Ayush-Suman/chat-lo
 [libman]: https://github.com/Ayush-Suman/libman
