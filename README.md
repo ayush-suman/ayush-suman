@@ -1,6 +1,8 @@
 ```Hello World```
 ### I'm [Ayush Suman][linkedin] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=26DCC0&lines=I+love+building+things%2C;and+breaking+them+down;)
+
 <br/>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -9,7 +11,7 @@
 
 <br/>
 
-### I'm a Student Developer at BITS Pilani!
+### Currently making it through BITS Pilani
 - 😎  Google's Developer Student Club Lead at BITS Pilani 
 - 💻  Android App Developer at DVM - BITS Pilani
 - 🪀  Flutter Developer at [SU Tech Team - BITS Pilani][sutt]
@@ -31,22 +33,14 @@
 - [Flutt-Chat][fluttchat] A simple **Flutter app** with **Beautiful Login UI**, built on **Firebase**.
 - [RedditAndroid][reddit] An **Android App** that uses Reddit APIs to load data. Uses **MVVM architecture** with **RxJava**, **Dagger2** (Dependency Injection), **Room** and **Retrofit**. Goal was to learn basic **Unit Testing** in software development.
 
-
 ---
 
-
-### 📕 Latest From Humans of Patna
-<!-- BLOG-POST-LIST:START -->
-- [The Tinsukia Mail was unexpectedly extremely late that evening, sometime in the year 1986, those slow but serene era of...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd137f108c39cd6584c548359ab76dea)
-- ["IITians from my school conducted a workshop to show how good a life an IITian lives. That wasmy 10th std. Those guys we...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd13781c8a3dc46682c348349ab466e6)
-- [“To be honest, I didn’t plan this initially. I wanted to travel the world. Before coming to that- I started as a failure...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd1378128f3dc76a88ca4b3e96b160e6)
-- [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d33f962ca2dd1378118e32c46182ca483d91bf66e2)
-- [He was born in Ranchi, Bihar, now in Jharkhand. He is MS Dhoni - the legend.  In his school days, he was an excellent ba...](https://rss.app/articles/cb4e791f6f6d729c04434f0c79d7b68e09111f2a513cbdec8ded811c8c856ec6ee17b05138869d37a5e23b39814510d3388a2cbe810d2a0a8a3bc16a85c14e3a92b462e5a2b378adb9dd78f075b97e5ad66c1851055ba8bc)
-<!-- BLOG-POST-LIST:END -->
-
----
-
+### Check out this
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayush-Suman&show_icons=true&hide_border=true" />
+
+### or that
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
 
 
 [twitter]: https://twitter.com/ayushsuman_
