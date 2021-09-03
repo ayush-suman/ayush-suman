@@ -23,8 +23,9 @@
 <br/>
 
 ---
-
+<br/>
 ### A few interesting lines of codes
+
 #### My Flutter packages
 - [unwired][unwired]
 - [otp widget][otp]
@@ -38,7 +39,7 @@
 - [RedditAndroid][reddit] An **Android App** that uses Reddit APIs to load data. Uses **MVVM architecture** with **RxJava**, **Dagger2** (Dependency Injection), **Room** and **Retrofit**. Goal was to learn basic **Unit Testing** in software development.
 
 ---
-
+<br/>
 ### A few things to laugh at
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayush-Suman&show_icons=true&hide_border=true" />
 
