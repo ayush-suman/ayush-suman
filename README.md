@@ -24,8 +24,12 @@
 
 ---
 
-### My Projects
-#### If you are interested into my efforts towards learning 
+### What I am upto
+#### My Flutter Packages
+- [unwired][unwired]
+- [otp widget][otp]
+
+#### Random projects
 - [chat-lo][chat-lo] Baby level project on **Socket Programming**. A local chat console application that sends msgs on **UDP protocol**. Uses **mutli-threading** to simultaneously listen to incoming messages while taking inputs from user for sending messages.
 - [libman][libman] A simple **C application** as inventory management system. Not developed to scale for real world use, but to learn and practice **pointers**, **file handling** and **memory management** in C. In this project, I tried to incorporate a basic event handling system using **functions running in infinite for loop**. 
 - [acclr-mock-device-driver][mockdriver] A mock **device driver** that generates and sends random accelerometer data from **kernel space** to **user space** through buffers. **Another repository on my Github uses IOCTL to communicate with userspace**.
@@ -52,6 +56,8 @@
 [acm]: http://bitsacm.acm.org/index.html
 [dvm]: https://bits-dvm.org/
 
+[unwired]: https://github.com/Ayush-Suman/unwired
+[otp]: https://github.com/Ayush-Suman/flutter-otp-widget
 [chat-lo]: https://github.com/Ayush-Suman/chat-lo
 [libman]: https://github.com/Ayush-Suman/libman
 [mockdriver]: https://github.com/Ayush-Suman/acclr-mock-device-driver
