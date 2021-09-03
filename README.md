@@ -26,7 +26,7 @@
 
 #### My Flutter packages
 - [unwired][unwired] Library for simplifying **http (authenticated/unauthenticated) network call functions**. This makes http call and does response parsing on a **dedicated isolate**, lifting heavy work from main thread.
-- [otp widget][otp] Flutter Widget for entering OTP.
+- [otp widget][otp] Flutter Widget for entering OTP with nice flexibility in UI. Widget takes in simple ```TextEditingController``` and binds it to all the individual text fields for OTP digits.
 
 #### Random projects
 - [libman][libman] A simple **C application** as inventory management system. Not developed to scale for real world use, but to learn and practice **pointers**, **file handling** and **memory management** in C. In this project, I tried to incorporate a basic event handling system using **functions running in infinite for loop**. 
