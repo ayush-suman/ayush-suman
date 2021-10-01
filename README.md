@@ -15,6 +15,7 @@
 - 😷  Currently making it through **BITS Pilani**
 - 😎  **Google** Developer Student Club Ex-Lead
 - 🍩  Building **Donut** A volunteering and fundraising platform
+- 📱  App Development is what I mostly do
 - 💻  Learning Backend and System Design
 - 🎶  Vibing on Piano 
 - 👀  Reach out to me at ayush231suman@gmail.com
