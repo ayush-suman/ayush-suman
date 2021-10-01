@@ -11,14 +11,13 @@
 
 <br/>
 
-### Currently making it through BITS Pilani
-- 😎  Former **Google** Developer Student Club Lead at BITS Pilani 
-- 🍩  Building Donut
-- 💻  Coordinator at [DVM - BITS Pilani][dvm]
-- 🪀  Developer at [SU Tech Team - BITS Pilani][sutt]
-- 🕸  Former Member of [ACM - BITS Pilani Student Chapter][acm]
-- 🌠  Former Embedded Systems Engineer at [Team Anant][anant]
-- ⚡  Vibing on Piano 🎶
+### Talking about me
+- 😷  Currently making it through **BITS Pilani**
+- 😎  **Google** Developer Student Club Ex-Lead
+- 🍩  Building **Donut** A volunteering and fundraising platform
+- 💻  Learning Backend and System Design
+- 🎶  Vibing on Piano 
+- 👀  Reach out to me at ayush231suman@gmail.com
 
 ---
 
