@@ -14,9 +14,9 @@
 ### Talking about me
 - 😷  Currently making it through **BITS Pilani**
 - 😎  **Google** Developer Student Club Ex-Lead
-- 🍩  Building **Donut** A volunteering and fundraising platform
-- 📱  App Development is what I mostly do
-- 💻  Learning Backend and System Design
+- 📱  Into App Development since school days
+- 🦫  Love to code in **Go** and **Kotlin**
+- 💻  Exploring System Design
 - 🎶  Vibing on Piano 
 - 👀  Reach out to me at ayush231suman@gmail.com
 
