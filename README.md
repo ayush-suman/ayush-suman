@@ -12,7 +12,7 @@
 <br/>
 
 ### Talking about me
-- 😷  Currently making it through **BITS Pilani**
+- 😷  Successfully made it through **BITS Pilani**
 - 😎  **Google** Developer Student Club Ex-Lead
 - 📱  Into App Development since school days
 - 🦫  Love to code in **Go** and **Kotlin**
